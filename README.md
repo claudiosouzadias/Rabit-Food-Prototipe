@@ -11,7 +11,7 @@ Projeto didático em JavaScript, com o objetivo de desenvolver motores de fisica
 
 # 📁 Acesso ao projeto
 
-**Você pode acessar o [site]([https://z3r1nh0.github.io/Rabit-Food/](https://coelho-brabo.vercel.app)) diretamente ou [acessar](https://github.com/Z3R1NH0/Rabit-Food.git) os arquivos do progama.**
+**Você pode acessar o [site]([coelho-brabo.vercel.app) diretamente ou [acessar](https://github.com/Z3R1NH0/Rabit-Food.git) os arquivos do progama.**
 
 # 🛠️ Abrir e rodar o projeto
 
